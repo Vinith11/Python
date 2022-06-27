@@ -1,0 +1,5 @@
+print("Enter your no.")
+n1 = input()
+print("Enter your no.")
+n2 = input()
+print("Your sum is ", int(n1) + int(n2))
